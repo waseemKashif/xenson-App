@@ -1,17 +1,18 @@
 <script>
-  import NavBar from "../components/navBar.svelte";
-  import HomeLanding from "../components/homeLanding.svelte";
-  import VideoIntro from "../components/videoIntro.svelte";
-  import Title from "../components/title.svelte";
+  import NavBar from "$lib/navBar.svelte";
+  import HomeLanding from "$lib/homeLanding.svelte";
+  import VideoIntro from "$lib/videoIntro.svelte";
+  import Title from "$lib/title.svelte";
   import PristonIcon from "../prtison.png";
   import NorthIcon from "../northWali.png";
   import OldMuthal from "../oldMuthal.png";
   import SveskaIcon from "../svenska.png";
   import SvekoIcon from "../sweko.png";
-  import IconsList from "../components/iconsList.svelte";
-  import DetailedList from "../components/detailedList.svelte";
+  import IconsList from "$lib/iconsList.svelte";
+  import DetailedList from "$lib/detailedList.svelte";
 
   let Icons = [PristonIcon, OldMuthal, SvekoIcon, NorthIcon, SveskaIcon];
+  
 </script>
 
 <div class="">

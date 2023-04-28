@@ -4,7 +4,7 @@
 </script>
 
 <div class={Class}>
-  {#each Icons as icon (icon.index)}
+  {#each Icons as icon (icon)}
     <img src={icon} alt="ListIcon" />
   {/each}
 </div>

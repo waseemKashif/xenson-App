@@ -35,11 +35,21 @@
     title={oneSam}
     detail={atXenson}
   />
-  <DetailedItem
-    Class="sm:grid sm:grid-cols-2 flex flex-col sm:px-20 px-5 items-center"
-    title={enterpriseIn}
-    detail={theTrue}
-    reverse="true"
+  <div class="flex justify-start sm:gird sm:grid-cols-2">
+
+    <DetailedItem
+      Class=" flex flex-col sm:px-20 px-5 items-center"
+      title={enterpriseIn}
+      detail={theTrue}
+      reverse="true"
     
-  />
+    />
+  
+      <div class="flex gap-2 ">
+        <span class=" text-red-600 w-[1px] h-[10px]"></span>
+        <span>950 <span>%</span></span>
+        <p>Preseted ROI <br>On average</p>
+      </div>
+ 
+  </div>
 </div>

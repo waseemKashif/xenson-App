@@ -1,7 +1,7 @@
 export const softwareAssests = `Software Assests Management <br> has never been`;
 export const soSimple = "so simple";
 export const aFully =
-  "A full software Assets Management soluition design with Swedish finesse. Seriously advanced technology in a deceivably simple pakage.";
+  "A full software Assets Management soluition design with Swedish  finesse. Seriously advanced technology in a deceivably simple pakage.";
 export const madeBy = "Made by Sweden";
 export const ItisSaid =
   "It is said thot the Swedish design philosophy is -minimalism, with an emphasis on functionality'. At xensom, we let that motto flood through our whole organisation. Our solution is minimalistic like an IKEA chair and fast like a Koenigsegg, all while keeping a level of complexity that covers all needs for advanced Software Asset Management.";
