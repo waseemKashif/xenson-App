@@ -18,5 +18,16 @@ export const xensonHas =
 export const oneSam = "One Sam Suit, one Price, everything included";
 export const atXenson =
   "At Xensam we believe in the simplicity and transparency In everything we do, and pricing is no different Our SAM Suite includes all our proprietary Solutions. One Solution. One Price. ";
-  export const enterpriseIn="Enterprises in the Us to small towns in Swenden are relying on Xensam"
-  export const theTrue="The true value is shown in the presented ROI and the feedback from our customers."
+export const enterpriseIn =
+  "Enterprises in the Us to small towns in Swenden are relying on Xensam";
+export const theTrue =
+  "The true value is shown in the presented ROI and the feedback from our customers.";
+export const inRatingOn = "in Rating on Gartner.com";
+export const inRating = "in Rating Capeterra.com";
+export const presented = "Presented ROI*";
+export const onAverage = "on average";
+export const theAverage =
+  "'The average presented ROI on a 10% sample customer base in an analysis made in 2022. The ROI calculation is not including cost savings of license optimizations in the data center and local apps, but only the reharvesting of unused/low used apps and the optimization of SaaS subscriptions. ";
+ export const weCould="We couldn't be happier with Xensam, since xxx... ";
+export const mariaBer="Maria Berghall, Coca-Cola";
+export const whatIs="What is happening in the world of Xen?"

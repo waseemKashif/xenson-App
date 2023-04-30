@@ -23,7 +23,7 @@
       <p class="md:text-3xl sm:text-2xl text-xl sm:py-4 py-1 font-semibold">
         {title}
       </p>
-      <p>{detail}</p>
+      <p class="md:w-[80%]">{detail}</p>
     </div>
     {#if IconImage != null}
       <img src={IconImage} alt="title" />

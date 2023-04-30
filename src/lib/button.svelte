@@ -1,12 +1,12 @@
 <script>
   export let Class;
-  export let bgColor = "blue";
-  export let textColor = "white";
+  export let bgColor = "#fd6379";
+  export let textColor = "#ffffff";
 </script>
 
 
   <button
-    class={Class}
+    class="   {Class}"
     style="background-color: {bgColor}; color: {textColor}; "
     >
     <slot /></button

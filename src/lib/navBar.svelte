@@ -49,7 +49,7 @@
         <Button
           textColor="#fe647e"
           bgColor="#fae7eb"
-          Class="md:px-6 md:py-1 px-2  md:ml-8 whitespace-nowrap rounded-2xl hover:scale-105 "
+          Class="md:px-6 md:py-1 px-3  md:ml-8 whitespace-nowrap rounded-2xl hover:scale-105 "
           ><a href="/">Book a Demo</a></Button
         >
       </ul>

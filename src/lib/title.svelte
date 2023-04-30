@@ -3,5 +3,5 @@
 </script>
 
 <div class="p-2">
-  <h2 class={Class}><slot /></h2>
+  <h1 class={Class}><slot /></h1>
 </div>
