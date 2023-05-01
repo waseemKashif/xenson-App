@@ -30,4 +30,11 @@ export const theAverage =
   "'The average presented ROI on a 10% sample customer base in an analysis made in 2022. The ROI calculation is not including cost savings of license optimizations in the data center and local apps, but only the reharvesting of unused/low used apps and the optimization of SaaS subscriptions. ";
  export const weCould="We couldn't be happier with Xensam, since xxx... ";
 export const mariaBer="Maria Berghall, Coca-Cola";
-export const whatIs="What is happening in the world of Xen?"
+export const whatIs="What is happening in the world of Xen?";
+export const samsEurope=" SAMS Europe";
+export const newsLetter="Newsletter";
+export const newsVideo = " News Video";
+export const latestBk =
+  "latest Bk>g/Noxt Event/latest posted Video/Etc. latest Rica/ Next Event/Latest posted Video/ Etc. ";
+  export const xensamAB = "Xensam AB Ⓒ, All rights reserved.";
+  export const privacyPolicy="Privacy Policy"
