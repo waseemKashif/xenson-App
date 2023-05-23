@@ -19,7 +19,7 @@
     inRatingOn,
     presented,
     onAverage,
-    theAverage
+    theAverage,
   } from "../constants";
 </script>
 

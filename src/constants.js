@@ -38,3 +38,8 @@ export const latestBk =
   "latest Bk>g/Noxt Event/latest posted Video/Etc. latest Rica/ Next Event/Latest posted Video/ Etc. ";
   export const xensamAB = "Xensam AB Ⓒ, All rights reserved.";
   export const privacyPolicy="Privacy Policy"
+  export const learnMore="Learn More";
+  export const ourProducts="Our Products";
+  export const ourFully="Our fully proprietary line up of products. Multiple technologies. Always included in our price SAM Suite";
+  export const bookAdemo="Book a Demo"
+
